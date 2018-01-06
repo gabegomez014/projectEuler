@@ -1,0 +1,1 @@
+These are all the solutions I’ve done in Java

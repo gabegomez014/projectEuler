@@ -1,0 +1,1 @@
+These are all my solutions that I’ve done in C
